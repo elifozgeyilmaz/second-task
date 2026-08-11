@@ -117,8 +117,7 @@ def main():
     with open(out_file, "w", encoding="utf-8") as f:
         json.dump(stream_epg, f, ensure_ascii=False, indent=2)
 
-    print(f"\nKaydedildi: {out_file}")
-    print(f"Toplam gün sayısı: {len(stream_epg)}")
+    print(f"total day count: {len(stream_epg)}")
 
     # print the first day's programs
     ilk_gun = stream_epg[0]["epgData"][0]
