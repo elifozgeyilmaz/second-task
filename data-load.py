@@ -99,9 +99,9 @@ try {{
 
 
 def main():
-    print("Sayfa indiriliyor HTML olarak")
+    print("downloading the page as html ")
     html = sayfa_indir()
-    print(f"  -> {len(html)} karakter indirildi.")
+    print(f"  -> {len(html)}chars total lenght.")
 
     print("NUXT script'i çıkarılıyor, kodu tekrar çalıştırabilmek için.")
     script_content = nuxt_script_cikar(html)
