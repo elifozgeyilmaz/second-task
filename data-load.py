@@ -41,12 +41,12 @@ def sayfa_indir() -> str:
 def nuxt_script_cikar(html: str) -> str:
     idx = html.find("__NUXT__=")
     if idx == -1:
-        raise RuntimeError("HTML içinde '__NUXT__=' bulamadı")
+        raise RuntimeError("no  '__NUXT__=' inside HTML page")
 
     start = html.rfind("<script", 0, idx)
     end = html.find("</script>", idx)
     if start == -1 or end == -1:
-        raise RuntimeError("__NUXT__ script tag'i sınırları bulamadı")
+        raise RuntimeError("__NUXT__ script tag' cannot be found")
     script_tag = html[start:end]
     # açılış <script ...> tag'ini at, sadece JS içeriğini bırak
     script_content = script_tag[script_tag.find(">") + 1 :]
