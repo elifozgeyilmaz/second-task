@@ -33,7 +33,7 @@ HEADERS = {
 
 
 def sayfa_indir() -> str:
-    resp = requests.get(URL, headers=HEADERS, timeout=15)
+    resp = requests.get(URL, headers=HEADERS)
     resp.raise_for_status()
     return resp.text
 
