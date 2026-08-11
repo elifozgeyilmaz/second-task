@@ -61,6 +61,9 @@ def nuxt_script_cikar(html: str) -> str:
 def node_ile_calistir(script_content: str) -> dict:
     """Script'i Node.js'de sahte bir window objesiyle çalıştırıp
     window.__NUXT__'ı JSON olarak döndürür."""
+    # işletim sisteminde geçici bir klasör oluştururmak için with bloğu bitince otomatik siler. 
+    # Neden lazım? Çünkü Node'a vereceğimiz .js dosyalarını bir yere yazmamız lazım, ama iş bitince ortalıkta çöp bırakmak istemiyoruz.
+    # tmp değişkeni, o klasörün yolunu (path) tutuyor.
     with tempfile.TemporaryDirectory() as tmp:
         js_path = os.path.join(tmp, "nuxt_script.js")
         runner_path = os.path.join(tmp, "runner.js")
