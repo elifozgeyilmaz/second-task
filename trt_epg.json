@@ -8560,35 +8560,35 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
+              },
+              {
+                "id": 32475968,
+                "title": "Kendi Düşen Ağlamaz",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T10:05:00.000Z",
+                "endtime": "2026-08-11T13:30:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": true,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
               }
             ],
             "current": {
-              "id": 32475968,
-              "title": "Kendi Düşen Ağlamaz",
+              "id": 32475969,
+              "title": "Seksenler",
               "geo_block": false,
               "livestream_access": false,
               "dvr_access": false,
-              "starttime": "2026-08-11T10:05:00.000Z",
-              "endtime": "2026-08-11T13:30:00.000Z",
+              "starttime": "2026-08-11T13:30:00.000Z",
+              "endtime": "2026-08-11T14:45:00.000Z",
               "dateOfEpg": "2026-08-11T03:00:00.000Z",
               "hasSubtitle": true,
               "hasSignLanguage": false,
               "hasAudioDescription": false
             },
             "upcoming": [
-              {
-                "id": 32475969,
-                "title": "Seksenler",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:30:00.000Z",
-                "endtime": "2026-08-11T14:45:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": true,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
               {
                 "id": 32475970,
                 "title": "Alparslan: Büyük Selçuklu",
@@ -8910,22 +8910,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32556244,
-              "title": "Duvarların Ötesinde",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:30:00.000Z",
-              "endtime": "2026-08-11T12:00:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32556244,
+                "title": "Duvarların Ötesinde",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:30:00.000Z",
+                "endtime": "2026-08-11T12:00:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32494478,
                 "title": "Sanatçının Şehri",
@@ -8964,20 +8962,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32494767,
-                "title": "Pazar Konseri",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:30:00.000Z",
-                "endtime": "2026-08-11T15:00:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32494767,
+              "title": "Pazar Konseri",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:30:00.000Z",
+              "endtime": "2026-08-11T15:00:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32494766,
                 "title": "Yabancı Sinema: DNA",
@@ -9364,22 +9364,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32476032,
-              "title": "Tarihin Efsaneleri",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:15:00.000Z",
-              "endtime": "2026-08-11T12:05:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": true,
-              "hasSignLanguage": false,
-              "hasAudioDescription": true
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32476032,
+                "title": "Tarihin Efsaneleri",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:15:00.000Z",
+                "endtime": "2026-08-11T12:05:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": true,
+                "hasSignLanguage": false,
+                "hasAudioDescription": true
+              },
               {
                 "id": 32476033,
                 "title": "Doğu'nun Kayıp Silüetleri",
@@ -9418,20 +9416,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32476235,
-                "title": "Vahşi Karayipler",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:45:00.000Z",
-                "endtime": "2026-08-11T14:40:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32476235,
+              "title": "Vahşi Karayipler",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:45:00.000Z",
+              "endtime": "2026-08-11T14:40:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32476234,
                 "title": "Yok Olmadan Keşfet",
@@ -9779,22 +9779,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": true
-              }
-            ],
-            "current": {
-              "id": 32475977,
-              "title": "Satır Başı",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T10:00:00.000Z",
-              "endtime": "2026-08-11T13:00:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32475977,
+                "title": "Satır Başı",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T10:00:00.000Z",
+                "endtime": "2026-08-11T13:00:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32475978,
                 "title": "Öğle Ana Haber",
@@ -9807,20 +9805,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": true,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32475979,
-                "title": "Piyasa Raporu",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:50:00.000Z",
-                "endtime": "2026-08-11T13:55:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32475979,
+              "title": "Piyasa Raporu",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:50:00.000Z",
+              "endtime": "2026-08-11T13:55:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32475980,
                 "title": "Hava Durumu ",
@@ -10336,22 +10336,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32543805,
-              "title": "SPOR MANŞET",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:00:00.000Z",
-              "endtime": "2026-08-11T12:30:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32543805,
+                "title": "SPOR MANŞET",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:00:00.000Z",
+                "endtime": "2026-08-11T12:30:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32543806,
                 "title": "GÜN ORTASI",
@@ -10364,20 +10362,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32543807,
-                "title": "ŞEHRİMİN TAKIMI ",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:30:00.000Z",
-                "endtime": "2026-08-11T14:00:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32543807,
+              "title": "ŞEHRİMİN TAKIMI ",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:30:00.000Z",
+              "endtime": "2026-08-11T14:00:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32543824,
                 "title": "SPOR STÜDYOSU",
@@ -10686,22 +10686,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32555122,
-              "title": " SPORUN İKONLARI",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:55:00.000Z",
-              "endtime": "2026-08-11T12:00:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32555122,
+                "title": " SPORUN İKONLARI",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:55:00.000Z",
+                "endtime": "2026-08-11T12:00:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32511011,
                 "title": "Haber Bülteni",
@@ -10740,20 +10738,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32557871,
-                "title": "AVRUPA ATLETİZM ŞAMPİYONASI SABAH SEANSI",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T12:35:00.000Z",
-                "endtime": "2026-08-11T15:00:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32557871,
+              "title": "AVRUPA ATLETİZM ŞAMPİYONASI SABAH SEANSI",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T12:35:00.000Z",
+              "endtime": "2026-08-11T15:00:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32555139,
                 "title": "CW ENERJİ TÜRKİYE YAĞLI GÜREŞ LİGİ VEZİRKÖPRÜ BELEDİYESİ KUNDUZ YAĞLI GÜREŞLERİ",
@@ -11036,22 +11036,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32476010,
-              "title": "Ahmet Özhan ile Gönül Yolu",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:15:00.000Z",
-              "endtime": "2026-08-11T12:00:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32476010,
+                "title": "Ahmet Özhan ile Gönül Yolu",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:15:00.000Z",
+                "endtime": "2026-08-11T12:00:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32476011,
                 "title": "Üç Yâren",
@@ -11077,20 +11075,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32476013,
-                "title": "Kayıthane",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:45:00.000Z",
-                "endtime": "2026-08-11T14:30:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32476013,
+              "title": "Kayıthane",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:45:00.000Z",
+              "endtime": "2026-08-11T14:30:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32476288,
                 "title": "Assolist",
@@ -11633,22 +11633,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32495294,
-              "title": "Çizgi Film \"Maysa ve Bulut\"",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:55:00.000Z",
-              "endtime": "2026-08-11T12:20:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": true,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32495294,
+                "title": "Çizgi Film \"Maysa ve Bulut\"",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:55:00.000Z",
+                "endtime": "2026-08-11T12:20:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": true,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32495293,
                 "title": "Çizgi Film \"Heidi\"",
@@ -11687,20 +11685,22 @@
                 "hasSubtitle": true,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32495290,
-                "title": "Çizgi Film \"Belle Ve Sebastian\"",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:30:00.000Z",
-                "endtime": "2026-08-11T13:55:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32495290,
+              "title": "Çizgi Film \"Belle Ve Sebastian\"",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:30:00.000Z",
+              "endtime": "2026-08-11T13:55:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32495289,
                 "title": "Çizgi Film \"Trafik Tayfa\"",
@@ -12646,22 +12646,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32476497,
-              "title": "Zekice İşler",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:55:00.000Z",
-              "endtime": "2026-08-11T12:05:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32476497,
+                "title": "Zekice İşler",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:55:00.000Z",
+                "endtime": "2026-08-11T12:05:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32476496,
                 "title": "Fülfül Hac Yolunda",
@@ -12765,20 +12763,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32476488,
-                "title": "Mercanya",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:40:00.000Z",
-                "endtime": "2026-08-11T13:55:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32476488,
+              "title": "Mercanya",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:40:00.000Z",
+              "endtime": "2026-08-11T13:55:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32476485,
                 "title": "Aylabera",
@@ -14036,22 +14036,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32476297,
-              "title": "Rumeli Lezzetleri",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:30:00.000Z",
-              "endtime": "2026-08-11T12:00:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32476297,
+                "title": "Rumeli Lezzetleri",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:30:00.000Z",
+                "endtime": "2026-08-11T12:00:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32512850,
                 "title": "Hoş Geldin Kahvesi",
@@ -14077,20 +14075,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32476295,
-                "title": "Anneler",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:00:00.000Z",
-                "endtime": "2026-08-11T14:00:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32476295,
+              "title": "Anneler",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:00:00.000Z",
+              "endtime": "2026-08-11T14:00:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32476294,
                 "title": "Öğle Ana Haber",
@@ -14724,22 +14724,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32476397,
-              "title": "Adım Adım Türkistan'da ",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:30:00.000Z",
-              "endtime": "2026-08-11T12:00:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32476397,
+                "title": "Adım Adım Türkistan'da ",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:30:00.000Z",
+                "endtime": "2026-08-11T12:00:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32476396,
                 "title": "Türkistan Gündemi",
@@ -14804,20 +14802,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32476359,
-                "title": "İzler",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:45:00.000Z",
-                "endtime": "2026-08-11T14:00:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32476359,
+              "title": "İzler",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:45:00.000Z",
+              "endtime": "2026-08-11T14:00:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32476357,
                 "title": "Türk Dünyası Keşif Rotası",
@@ -15360,22 +15360,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32555603,
-              "title": "Türkülerimiz",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:45:00.000Z",
-              "endtime": "2026-08-11T13:35:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32555603,
+                "title": "Türkülerimiz",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:45:00.000Z",
+                "endtime": "2026-08-11T13:35:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32555604,
                 "title": "Olaylar Ve Öncüler",
@@ -15388,20 +15386,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32475990,
-                "title": "Yamak Ahmet",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:45:00.000Z",
-                "endtime": "2026-08-11T14:25:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32475990,
+              "title": "Yamak Ahmet",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:45:00.000Z",
+              "endtime": "2026-08-11T14:25:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32475991,
                 "title": "Melek",
@@ -15853,22 +15853,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32569642,
-              "title": "NEWSHOUR",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:00:00.000Z",
-              "endtime": "2026-08-11T12:00:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32569642,
+                "title": "NEWSHOUR",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:00:00.000Z",
+                "endtime": "2026-08-11T12:00:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32569641,
                 "title": "AFRICA MATTERS",
@@ -15883,8 +15881,8 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32569640,
-                "title": "JUST 2 DEGREES",
+                "id": 32570854,
+                "title": "DOCUMENTARY - TERROR FREE TURKIYE",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
@@ -15907,20 +15905,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32569638,
-                "title": "BUSINESS NEWS",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:30:00.000Z",
-                "endtime": "2026-08-11T14:00:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32569638,
+              "title": "BUSINESS NEWS",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:30:00.000Z",
+              "endtime": "2026-08-11T14:00:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32569637,
                 "title": "NEWS",
@@ -16385,22 +16385,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32476370,
-              "title": "MATEMATİK-5 ORTAOKUL",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:30:00.000Z",
-              "endtime": "2026-08-11T12:00:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32476370,
+                "title": "MATEMATİK-5 ORTAOKUL",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:30:00.000Z",
+                "endtime": "2026-08-11T12:00:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32476367,
                 "title": "TÜRKÇE-6 ORTAOKUL",
@@ -16439,20 +16437,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32476362,
-                "title": "ÖZEL EĞİTİM MATEMATİK",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:30:00.000Z",
-                "endtime": "2026-08-11T14:00:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32476362,
+              "title": "ÖZEL EĞİTİM MATEMATİK",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:30:00.000Z",
+              "endtime": "2026-08-11T14:00:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32476361,
                 "title": "İNGİLİZCE-6 ORTAOKUL",
@@ -17099,22 +17099,20 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              }
-            ],
-            "current": {
-              "id": 32476457,
-              "title": "Bir Fikrin Mi Var?",
-              "geo_block": false,
-              "livestream_access": false,
-              "dvr_access": false,
-              "starttime": "2026-08-11T11:15:00.000Z",
-              "endtime": "2026-08-11T12:05:00.000Z",
-              "dateOfEpg": "2026-08-11T03:00:00.000Z",
-              "hasSubtitle": false,
-              "hasSignLanguage": false,
-              "hasAudioDescription": false
-            },
-            "upcoming": [
+              },
+              {
+                "id": 32476457,
+                "title": "Bir Fikrin Mi Var?",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-11T11:15:00.000Z",
+                "endtime": "2026-08-11T12:05:00.000Z",
+                "dateOfEpg": "2026-08-11T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
               {
                 "id": 32476456,
                 "title": "Gerçeğin Yansımaları",
@@ -17166,20 +17164,22 @@
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
-              },
-              {
-                "id": 32476452,
-                "title": "Gençliğimin Merkezi",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-11T13:45:00.000Z",
-                "endtime": "2026-08-11T14:05:00.000Z",
-                "dateOfEpg": "2026-08-11T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
+              }
+            ],
+            "current": {
+              "id": 32476452,
+              "title": "Gençliğimin Merkezi",
+              "geo_block": false,
+              "livestream_access": false,
+              "dvr_access": false,
+              "starttime": "2026-08-11T13:45:00.000Z",
+              "endtime": "2026-08-11T14:05:00.000Z",
+              "dateOfEpg": "2026-08-11T03:00:00.000Z",
+              "hasSubtitle": false,
+              "hasSignLanguage": false,
+              "hasAudioDescription": false
+            },
+            "upcoming": [
               {
                 "id": 32476449,
                 "title": "Benim Mesleğim",
@@ -18178,13 +18178,13 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32570207,
+                "id": 32570783,
                 "title": "Kendi Düşen Ağlamaz",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
                 "starttime": "2026-08-13T02:25:00.000Z",
-                "endtime": "2026-08-13T04:45:00.000Z",
+                "endtime": "2026-08-13T05:00:00.000Z",
                 "dateOfEpg": "2026-08-12T03:00:00.000Z",
                 "hasSubtitle": true,
                 "hasSignLanguage": false,
@@ -48563,8 +48563,8 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32570125,
-                "title": "Sporla Değişen Hayatlar",
+                "id": 32571691,
+                "title": "Olimpiyat Yıldızları",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
@@ -48654,25 +48654,38 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32570193,
-                "title": "Sporla Değişen Hayatlar",
+                "id": 32571649,
+                "title": "Olimpiyat Yıldızları",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
                 "starttime": "2026-08-16T00:30:00.000Z",
-                "endtime": "2026-08-16T00:45:00.000Z",
+                "endtime": "2026-08-16T00:40:00.000Z",
                 "dateOfEpg": "2026-08-15T03:00:00.000Z",
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
               },
               {
-                "id": 32570192,
-                "title": "Olimpiyat Yıldızları",
+                "id": 32571648,
+                "title": "Sporla Değişen Hayatlar",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
-                "starttime": "2026-08-16T00:45:00.000Z",
+                "starttime": "2026-08-16T00:40:00.000Z",
+                "endtime": "2026-08-16T00:55:00.000Z",
+                "dateOfEpg": "2026-08-15T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
+              {
+                "id": 32571647,
+                "title": " SPORUN İKONLARI",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-16T00:55:00.000Z",
                 "endtime": "2026-08-16T01:00:00.000Z",
                 "dateOfEpg": "2026-08-15T03:00:00.000Z",
                 "hasSubtitle": false,
@@ -52056,8 +52069,8 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32569426,
-                "title": "Rafet El Roman ile Her Şey Yolunda",
+                "id": 32571723,
+                "title": "Memleket Yolu",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
@@ -52069,38 +52082,12 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32569880,
-                "title": "TRENDYOL 1. LİG FUTBOL KARŞILAŞMASI  ....... HAFTA MANİSA FUTBOL KULÜBÜ - VAN SPOR FUTBOL KULÜBÜ",
+                "id": 32571396,
+                "title": "TRENDYOL 1. LİG FUTBOL KARŞILAŞMASI 2.HAFTA MANİSA FUTBOL KULÜBÜ - VAN SPOR FUTBOL KULÜBÜ",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
                 "starttime": "2026-08-15T21:30:00.000Z",
-                "endtime": "2026-08-15T22:30:00.000Z",
-                "dateOfEpg": "2026-08-15T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32569423,
-                "title": "TRT TÜRK",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-15T22:30:00.000Z",
-                "endtime": "2026-08-15T22:45:00.000Z",
-                "dateOfEpg": "2026-08-15T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32569879,
-                "title": "TRENDYOL 1. LİG FUTBOL KARŞILAŞMASI  ....... HAFTA MANİSA FUTBOL KULÜBÜ - VAN SPOR FUTBOL KULÜBÜ",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-15T22:45:00.000Z",
                 "endtime": "2026-08-15T23:30:00.000Z",
                 "dateOfEpg": "2026-08-15T03:00:00.000Z",
                 "hasSubtitle": false,
@@ -52108,12 +52095,38 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32569421,
-                "title": "Türk Sineması \"Afacanlar Kampta\"",
+                "id": 32571718,
+                "title": "Misafir Kapıda",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
                 "starttime": "2026-08-15T23:30:00.000Z",
+                "endtime": "2026-08-16T00:00:00.000Z",
+                "dateOfEpg": "2026-08-15T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
+              {
+                "id": 32571716,
+                "title": "Balkan Saati",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-16T00:00:00.000Z",
+                "endtime": "2026-08-16T00:30:00.000Z",
+                "dateOfEpg": "2026-08-15T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
+              {
+                "id": 32571715,
+                "title": "Kalbimdeki Türkiye",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-16T00:30:00.000Z",
                 "endtime": "2026-08-16T01:00:00.000Z",
                 "dateOfEpg": "2026-08-15T03:00:00.000Z",
                 "hasSubtitle": false,
@@ -52121,47 +52134,47 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32569420,
-                "title": "Balkan Saati",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-16T01:00:00.000Z",
-                "endtime": "2026-08-16T01:30:00.000Z",
-                "dateOfEpg": "2026-08-15T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32569417,
-                "title": "Kalbimdeki Türkiye",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-16T01:30:00.000Z",
-                "endtime": "2026-08-16T02:00:00.000Z",
-                "dateOfEpg": "2026-08-15T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32569414,
+                "id": 32571714,
                 "title": "Şehirden Uzakta",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
-                "starttime": "2026-08-16T02:00:00.000Z",
-                "endtime": "2026-08-16T03:00:00.000Z",
+                "starttime": "2026-08-16T01:00:00.000Z",
+                "endtime": "2026-08-16T02:00:00.000Z",
                 "dateOfEpg": "2026-08-15T03:00:00.000Z",
                 "hasSubtitle": true,
                 "hasSignLanguage": false,
                 "hasAudioDescription": true
               },
               {
-                "id": 32569413,
+                "id": 32571713,
                 "title": "Sahnemiz Sokak",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-16T02:00:00.000Z",
+                "endtime": "2026-08-16T02:30:00.000Z",
+                "dateOfEpg": "2026-08-15T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
+              {
+                "id": 32571712,
+                "title": "Oyunbozan",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-16T02:30:00.000Z",
+                "endtime": "2026-08-16T03:00:00.000Z",
+                "dateOfEpg": "2026-08-15T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
+              {
+                "id": 32571711,
+                "title": "Kesin Dönüş",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
@@ -52173,91 +52186,65 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32569415,
-                "title": "Oyunbozan",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-16T03:30:00.000Z",
-                "endtime": "2026-08-16T04:00:00.000Z",
-                "dateOfEpg": "2026-08-15T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32569412,
-                "title": "Kesin Dönüş",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-16T04:00:00.000Z",
-                "endtime": "2026-08-16T04:30:00.000Z",
-                "dateOfEpg": "2026-08-15T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32569411,
+                "id": 32571710,
                 "title": "Rafet El Roman ile Her Şey Yolunda",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
-                "starttime": "2026-08-16T04:30:00.000Z",
-                "endtime": "2026-08-16T05:10:00.000Z",
+                "starttime": "2026-08-16T03:30:00.000Z",
+                "endtime": "2026-08-16T04:10:00.000Z",
                 "dateOfEpg": "2026-08-15T03:00:00.000Z",
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
               },
               {
-                "id": 32569410,
+                "id": 32571709,
                 "title": "Benim Güzel Şehrim",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
-                "starttime": "2026-08-16T05:10:00.000Z",
-                "endtime": "2026-08-16T05:40:00.000Z",
+                "starttime": "2026-08-16T04:10:00.000Z",
+                "endtime": "2026-08-16T04:40:00.000Z",
                 "dateOfEpg": "2026-08-15T03:00:00.000Z",
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
               },
               {
-                "id": 32569409,
+                "id": 32571708,
                 "title": "Bir Lokma Bir Ömür",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
-                "starttime": "2026-08-16T05:40:00.000Z",
-                "endtime": "2026-08-16T06:15:00.000Z",
+                "starttime": "2026-08-16T04:40:00.000Z",
+                "endtime": "2026-08-16T05:15:00.000Z",
                 "dateOfEpg": "2026-08-15T03:00:00.000Z",
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
               },
               {
-                "id": 32569408,
+                "id": 32571707,
                 "title": "Gönül Misafiri",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
-                "starttime": "2026-08-16T06:15:00.000Z",
-                "endtime": "2026-08-16T06:35:00.000Z",
+                "starttime": "2026-08-16T05:15:00.000Z",
+                "endtime": "2026-08-16T05:35:00.000Z",
                 "dateOfEpg": "2026-08-15T03:00:00.000Z",
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
               },
               {
-                "id": 32569407,
+                "id": 32571706,
                 "title": "Avusturya ve İsviçre'de Türk Camileri",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
-                "starttime": "2026-08-16T06:35:00.000Z",
-                "endtime": "2026-08-16T06:55:00.000Z",
+                "starttime": "2026-08-16T05:35:00.000Z",
+                "endtime": "2026-08-16T05:55:00.000Z",
                 "dateOfEpg": "2026-08-15T03:00:00.000Z",
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
@@ -60606,38 +60593,12 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32570183,
-                "title": "TRENDYOL 1. LİG FUTBOL KARŞILAŞMASI .... HAFTA MUĞLASPOR KULÜBÜ - BANDIRMASPOR",
+                "id": 32571700,
+                "title": "TRENDYOL 1. LİG FUTBOL KARŞILAŞMASI 2.HAFTA MUĞLASPOR KULÜBÜ - BANDIRMA SPOR",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
                 "starttime": "2026-08-16T21:30:00.000Z",
-                "endtime": "2026-08-16T22:30:00.000Z",
-                "dateOfEpg": "2026-08-16T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32569398,
-                "title": "TRT TÜRK",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-16T22:30:00.000Z",
-                "endtime": "2026-08-16T22:45:00.000Z",
-                "dateOfEpg": "2026-08-16T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32570185,
-                "title": "TRENDYOL 1. LİG FUTBOL KARŞILAŞMASI .... HAFTA MUĞLASPOR KULÜBÜ - BANDIRMASPOR",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-16T22:45:00.000Z",
                 "endtime": "2026-08-16T23:30:00.000Z",
                 "dateOfEpg": "2026-08-16T03:00:00.000Z",
                 "hasSubtitle": false,
@@ -60645,8 +60606,8 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32569374,
-                "title": "Savaşın Efsaneleri",
+                "id": 32571699,
+                "title": "Gönlümdeki Köln",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
@@ -60658,38 +60619,38 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32569373,
-                "title": "Savunma Sanayiinin Yalnız Dehaları",
+                "id": 32571698,
+                "title": "Savaşın Efsaneleri",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
                 "starttime": "2026-08-17T00:30:00.000Z",
-                "endtime": "2026-08-17T01:15:00.000Z",
+                "endtime": "2026-08-17T01:30:00.000Z",
                 "dateOfEpg": "2026-08-16T03:00:00.000Z",
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
               },
               {
-                "id": 32569372,
+                "id": 32571697,
+                "title": "Savunma Sanayiinin Yalnız Dehaları",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-17T01:30:00.000Z",
+                "endtime": "2026-08-17T02:15:00.000Z",
+                "dateOfEpg": "2026-08-16T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
+              {
+                "id": 32571695,
                 "title": "Zamâne",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
-                "starttime": "2026-08-17T01:15:00.000Z",
-                "endtime": "2026-08-17T02:00:00.000Z",
-                "dateOfEpg": "2026-08-16T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32569371,
-                "title": "Gönlümdeki Köln",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-17T02:00:00.000Z",
+                "starttime": "2026-08-17T02:15:00.000Z",
                 "endtime": "2026-08-17T03:00:00.000Z",
                 "dateOfEpg": "2026-08-16T03:00:00.000Z",
                 "hasSubtitle": false,
@@ -60697,25 +60658,25 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32569370,
-                "title": "Gönül Verenler",
+                "id": 32571694,
+                "title": "Gönlümdeki Köln",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
                 "starttime": "2026-08-17T03:00:00.000Z",
-                "endtime": "2026-08-17T03:30:00.000Z",
+                "endtime": "2026-08-17T04:00:00.000Z",
                 "dateOfEpg": "2026-08-16T03:00:00.000Z",
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
               },
               {
-                "id": 32569368,
-                "title": "Ailenin Yeni Üyesi \"Türkiye\" (Sesli Betimleme ve Ayrıntılı Altyazı)",
+                "id": 32571693,
+                "title": "Gönül Verenler",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
-                "starttime": "2026-08-17T03:30:00.000Z",
+                "starttime": "2026-08-17T04:00:00.000Z",
                 "endtime": "2026-08-17T04:30:00.000Z",
                 "dateOfEpg": "2026-08-16T03:00:00.000Z",
                 "hasSubtitle": false,
@@ -60723,51 +60684,25 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32569367,
-                "title": "Rumeli Saati",
+                "id": 32571666,
+                "title": "Ailenin Yeni Üyesi \"Türkiye\" (Sesli Betimleme ve Ayrıntılı Altyazı)",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
                 "starttime": "2026-08-17T04:30:00.000Z",
-                "endtime": "2026-08-17T05:00:00.000Z",
+                "endtime": "2026-08-17T05:30:00.000Z",
                 "dateOfEpg": "2026-08-16T03:00:00.000Z",
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
               },
               {
-                "id": 32569366,
-                "title": "Fabrika Ayarı",
+                "id": 32571665,
+                "title": "Rumeli Saati",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
-                "starttime": "2026-08-17T05:00:00.000Z",
-                "endtime": "2026-08-17T05:15:00.000Z",
-                "dateOfEpg": "2026-08-16T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32552990,
-                "title": "İnsan İnsan ",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-17T05:15:00.000Z",
-                "endtime": "2026-08-17T05:45:00.000Z",
-                "dateOfEpg": "2026-08-16T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32552989,
-                "title": "Zuhurat",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-17T05:45:00.000Z",
+                "starttime": "2026-08-17T05:30:00.000Z",
                 "endtime": "2026-08-17T06:00:00.000Z",
                 "dateOfEpg": "2026-08-16T03:00:00.000Z",
                 "hasSubtitle": false,
@@ -60775,38 +60710,25 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32552988,
-                "title": "Avusturya ve İsviçre'de Türk Camileri",
+                "id": 32571664,
+                "title": "Fabrika Ayarı",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
                 "starttime": "2026-08-17T06:00:00.000Z",
-                "endtime": "2026-08-17T06:20:00.000Z",
+                "endtime": "2026-08-17T06:15:00.000Z",
                 "dateOfEpg": "2026-08-16T03:00:00.000Z",
                 "hasSubtitle": false,
                 "hasSignLanguage": false,
                 "hasAudioDescription": false
               },
               {
-                "id": 32552987,
-                "title": "Efendimizin 24 Saati",
+                "id": 32571663,
+                "title": "İnsan İnsan ",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
-                "starttime": "2026-08-17T06:20:00.000Z",
-                "endtime": "2026-08-17T06:35:00.000Z",
-                "dateOfEpg": "2026-08-16T03:00:00.000Z",
-                "hasSubtitle": false,
-                "hasSignLanguage": false,
-                "hasAudioDescription": false
-              },
-              {
-                "id": 32552986,
-                "title": "En Güzel",
-                "geo_block": false,
-                "livestream_access": false,
-                "dvr_access": false,
-                "starttime": "2026-08-17T06:35:00.000Z",
+                "starttime": "2026-08-17T06:15:00.000Z",
                 "endtime": "2026-08-17T06:45:00.000Z",
                 "dateOfEpg": "2026-08-16T03:00:00.000Z",
                 "hasSubtitle": false,
@@ -60814,13 +60736,65 @@
                 "hasAudioDescription": false
               },
               {
-                "id": 32552983,
-                "title": "Örnek",
+                "id": 32571662,
+                "title": "Zuhurat",
                 "geo_block": false,
                 "livestream_access": false,
                 "dvr_access": false,
                 "starttime": "2026-08-17T06:45:00.000Z",
-                "endtime": "2026-08-17T06:55:00.000Z",
+                "endtime": "2026-08-17T07:00:00.000Z",
+                "dateOfEpg": "2026-08-16T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
+              {
+                "id": 32571661,
+                "title": "Avusturya ve İsviçre'de Türk Camileri",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-17T07:00:00.000Z",
+                "endtime": "2026-08-17T07:20:00.000Z",
+                "dateOfEpg": "2026-08-16T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
+              {
+                "id": 32571660,
+                "title": "Efendimizin 24 Saati",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-17T07:20:00.000Z",
+                "endtime": "2026-08-17T07:35:00.000Z",
+                "dateOfEpg": "2026-08-16T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
+              {
+                "id": 32571692,
+                "title": "En Güzel",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-17T07:35:00.000Z",
+                "endtime": "2026-08-17T07:45:00.000Z",
+                "dateOfEpg": "2026-08-16T03:00:00.000Z",
+                "hasSubtitle": false,
+                "hasSignLanguage": false,
+                "hasAudioDescription": false
+              },
+              {
+                "id": 32571659,
+                "title": "Örnek",
+                "geo_block": false,
+                "livestream_access": false,
+                "dvr_access": false,
+                "starttime": "2026-08-17T07:45:00.000Z",
+                "endtime": "2026-08-17T07:55:00.000Z",
                 "dateOfEpg": "2026-08-16T03:00:00.000Z",
                 "hasSubtitle": false,
                 "hasSignLanguage": false,

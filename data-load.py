@@ -123,8 +123,8 @@ def main():
     # Örnek: ilk günün ilk kanalının ilk 3 programını göster
     ilk_gun = stream_epg[0]["epgData"][0]
     ilk_kanal = ilk_gun["tvChannels"][0]
-    print(f"\nÖrnek -> {ilk_kanal['title']} kanalının ilk programları:")
-    for p in ilk_kanal["past"][:3]:
+    print(f"\nÖrnek -> {ilk_kanal['title']} kanalının ilk programları (1.gün):")
+    for p in ilk_kanal["past"][:]:
         print(f"  {p['starttime']} -> {p['endtime']} : {p['title']}")
     
 
