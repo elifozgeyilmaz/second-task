@@ -107,9 +107,9 @@ def main():
     script_content = nuxt_script_cikar(html)
     print(f"  -> {len(script_content)} karakter script bulundu.")
 
-    print("Node.js ile çalıştırılıyor (JS evaluate)...")
+    print("Node.js is being executed (JS evaluate)...")
     nuxt_data = node_ile_calistir(script_content)
-    print("  -> Başarılı.")
+    print("  -> done")
 
     stream_epg = nuxt_data["data"][0]["streamEpg"]
 
