@@ -6,9 +6,9 @@ Nasıl çalışır:
 3. Bu script'i Node.js ile, sahte bir `window` objesi vererek çalıştırır (eval).
 4. window.__NUXT__.data[0].streamEpg altındaki veriyi JSON olarak kaydeder.
 
-Gereksinimler:
+requirements:
 - Python 3
-- Node.js (sistemde kurulu olmalı, `node --version` ile kontrol edebilirsin)
+- Node.js 
 - requests (`pip install requests`)
 
 """
