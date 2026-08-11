@@ -120,7 +120,7 @@ def main():
     print(f"\nKaydedildi: {out_file}")
     print(f"Toplam gün sayısı: {len(stream_epg)}")
 
-    # Örnek: ilk günün ilk kanalının ilk 3 programını göster
+    # print the first day's programs
     ilk_gun = stream_epg[0]["epgData"][0]
     ilk_kanal = ilk_gun["tvChannels"][0]
     print(f"\nÖrnek -> {ilk_kanal['title']} program of the first day (1.gün):")
