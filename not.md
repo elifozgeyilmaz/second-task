@@ -2,7 +2,7 @@
 
 ## Tek cümlede olay
 
-TRT'nin sayfası, veriyi JSON olarak değil, **çalıştırılması gereken bir JavaScript kod parçası** olarak HTML'in içine gizlemiş. Biz de o kodu gerçekten çalıştırıp içinden veriyi çıkardık.
+TRT'nin sayfası, veriyi JSON olarak değil, **çalıştırılması gereken bir JavaScript kod parçası** olarak HTML'in içine gizlemiş. O kodu html içinden çıkarmak ve çalıştırmak gerekiyor.
 
 ## Üç sayfa sunma modeli (görsel)
 
