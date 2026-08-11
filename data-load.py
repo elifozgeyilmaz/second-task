@@ -11,8 +11,6 @@ Gereksinimler:
 - Node.js (sistemde kurulu olmalı, `node --version` ile kontrol edebilirsin)
 - requests (`pip install requests`)
 
-Kullanım:
-    python3 trt_epg_cek.py
 """
 
 import json
