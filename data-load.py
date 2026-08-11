@@ -1,11 +1,8 @@
 """
-TRT Yayın Akışı (EPG) verisini çeken script.
-
+TRT Yayın Akışı  verisini çekme
 Nasıl çalışır:
-1. https://www.trt.net.tr/yayin-akisi sayfasının HTML'ini indirir.
-2. Sayfa içine gömülü `window.__NUXT__=(function(...){...})(...)` script'ini bulur.
-   (Bu, Nuxt.js'in server-side render ettiği veriyi taşıyan minify edilmiş bir
-   fonksiyon çağrısıdır — düz JSON değildir, bu yüzden regex ile çekilemez.)
+1. https://www.trt.net.tr/yayin-akisi sayfasının HTML'ini indir.
+2. Sayfa içine gömülü `window.__NUXT__=(function(...){...})(...)` script'ini bul.
 3. Bu script'i Node.js ile, sahte bir `window` objesi vererek çalıştırır (eval).
 4. window.__NUXT__.data[0].streamEpg altındaki veriyi JSON olarak kaydeder.
 
@@ -46,12 +43,12 @@ def sayfa_indir() -> str:
 def nuxt_script_cikar(html: str) -> str:
     idx = html.find("__NUXT__=")
     if idx == -1:
-        raise RuntimeError("HTML içinde '__NUXT__=' bulunamadı.")
+        raise RuntimeError("HTML içinde '__NUXT__=' bulamadı")
 
     start = html.rfind("<script", 0, idx)
     end = html.find("</script>", idx)
     if start == -1 or end == -1:
-        raise RuntimeError("__NUXT__ script tag'i sınırları bulunamadı.")
+        raise RuntimeError("__NUXT__ script tag'i sınırları bulamadı")
     script_tag = html[start:end]
     # açılış <script ...> tag'ini at, sadece JS içeriğini bırak
     script_content = script_tag[script_tag.find(">") + 1 :]
@@ -92,7 +89,7 @@ try {{
             ["node", runner_path], capture_output=True, text=True
         )
         if result.returncode != 0:
-            raise RuntimeError(f"Node.js hata verdi: {result.stderr.strip()}")
+            raise RuntimeError(f"Node.js error: {result.stderr.strip()}")
 
         with open(out_path, encoding="utf-8") as f:
             return json.load(f)
